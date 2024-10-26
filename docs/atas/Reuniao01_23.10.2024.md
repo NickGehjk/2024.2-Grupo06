@@ -117,4 +117,4 @@ No vídeo 1 encontra-se a gravação da reunião.
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |24/10/2024| Criação da ata de reunião | [Júlia Fortunato](https://github.com/julia-fortunato) |-|
+| `1.0`  |24/10/2024| Criação da ata de reunião | [Júlia Fortunato](https://github.com/julia-fortunato) | [Nicolas Bandeira](https://github.com/nickgehjk)
